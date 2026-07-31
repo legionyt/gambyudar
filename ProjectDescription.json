@@ -3,7 +3,7 @@
   "DLSVersion_LastSaved": "2.1.6",
   "DLSVersion_EarliestCompatible": "2.0.0",
   "CreationTime": "2026-07-31T23:23:29.229+05:30",
-  "LastSaveTime": "2026-07-31T23:23:29.229+05:30",
+  "LastSaveTime": "2026-07-31T23:54:47.662+05:30",
   "Prefs_MainPinNamesDisplayMode": 1,
   "Prefs_ChipPinNamesDisplayMode": 1,
   "Prefs_GridDisplayMode": 0,
@@ -12,7 +12,9 @@
   "Prefs_SimPaused": false,
   "Prefs_SimTargetStepsPerSecond": 1000,
   "Prefs_SimStepsPerClockTick": 250,
-  "AllCustomChipNames":[],
+  "AllCustomChipNames":[
+    "NOT"
+  ],
   "StarredList":[
     {
       "Name":"IN/OUT",
@@ -20,6 +22,10 @@
     },
     {
       "Name":"NAND",
+      "IsCollection":false
+    },
+    {
+      "Name":"NOT",
       "IsCollection":false
     }
   ],
@@ -53,6 +59,16 @@
       "Chips":["ROM 256×16"],
       "IsToggledOpen":false,
       "Name":"MEMORY"
+    },
+    {
+      "Chips":["BUZZER"],
+      "IsToggledOpen":true,
+      "Name":"OTHER"
+    },
+    {
+      "Chips":["NOT"],
+      "IsToggledOpen":true,
+      "Name":"GATES"
     }
   ]
 }
