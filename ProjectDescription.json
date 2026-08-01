@@ -3,7 +3,7 @@
   "DLSVersion_LastSaved": "2.1.6",
   "DLSVersion_EarliestCompatible": "2.0.0",
   "CreationTime": "2026-07-31T23:23:29.229+05:30",
-  "LastSaveTime": "2026-08-01T21:08:49.910+05:30",
+  "LastSaveTime": "2026-08-01T21:38:30.618+05:30",
   "Prefs_MainPinNamesDisplayMode": 1,
   "Prefs_ChipPinNamesDisplayMode": 1,
   "Prefs_GridDisplayMode": 1,
@@ -20,7 +20,8 @@
     "MUX2",
     "MUX4",
     "MUX8",
-    "SR LATCH"
+    "SR LATCH",
+    "test subject"
   ],
   "StarredList":[
     {
@@ -61,6 +62,10 @@
     },
     {
       "Name":"SR LATCH",
+      "IsCollection":false
+    },
+    {
+      "Name":"test subject",
       "IsCollection":false
     }
   ],
