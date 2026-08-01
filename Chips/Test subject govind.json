@@ -1,0 +1,100 @@
+{
+  "DLSVersion": "2.1.6",
+  "Name": "Test subject govind",
+  "NameLocation": 0,
+  "ChipType": 0,
+  "Size": {
+    "x": 2.0,
+    "y": 0.5
+  },
+  "Colour": {
+    "r": 0.2090188,
+    "g": 0.326601148,
+    "b": 0.5039785,
+    "a": 1
+  },
+  "InputPins":[
+    {
+      "Name":"IN",
+      "ID":1932747475,
+      "Position":{
+        "x":-6.25,
+        "y":-0.125
+      },
+      "BitCount":1,
+      "Colour":0,
+      "ValueDisplayMode":0
+    }
+  ],
+  "OutputPins":[
+    {
+      "Name":"OUT",
+      "ID":615754115,
+      "Position":{
+        "x":-1.625,
+        "y":0.0
+      },
+      "BitCount":1,
+      "Colour":0,
+      "ValueDisplayMode":0
+    }
+  ],
+  "SubChips":[
+    {
+      "Name":"AND",
+      "ID":967272080,
+      "Label":"",
+      "Position":{
+        "x":-3.8275,
+        "y":0.0
+      },
+      "OutputPinColourInfo":[{"PinColour":0,"PinID":1937971105}],
+      "InternalData":null
+    }
+  ],
+  "Wires":[
+    {
+      "SourcePinAddress":{
+        "PinID":0,
+        "PinOwnerID":1932747475
+      },
+      "TargetPinAddress":{
+        "PinID":562132233,
+        "PinOwnerID":967272080
+      },
+      "ConnectionType":0,
+      "ConnectedWireIndex":-1,
+      "ConnectedWireSegmentIndex":-1,
+      "Points":[{"x":0.0,"y":0.0},{"x":0.0,"y":0.0}]
+    },
+    {
+      "SourcePinAddress":{
+        "PinID":0,
+        "PinOwnerID":1932747475
+      },
+      "TargetPinAddress":{
+        "PinID":2102360772,
+        "PinOwnerID":967272080
+      },
+      "ConnectionType":0,
+      "ConnectedWireIndex":-1,
+      "ConnectedWireSegmentIndex":-1,
+      "Points":[{"x":0.0,"y":0.0},{"x":0.0,"y":0.0}]
+    },
+    {
+      "SourcePinAddress":{
+        "PinID":1937971105,
+        "PinOwnerID":967272080
+      },
+      "TargetPinAddress":{
+        "PinID":0,
+        "PinOwnerID":615754115
+      },
+      "ConnectionType":0,
+      "ConnectedWireIndex":-1,
+      "ConnectedWireSegmentIndex":-1,
+      "Points":[{"x":0.0,"y":0.0},{"x":0.0,"y":0.0}]
+    }
+  ],
+  "Displays": null
+}
