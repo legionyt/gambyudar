@@ -3,7 +3,7 @@
   "DLSVersion_LastSaved": "2.1.6",
   "DLSVersion_EarliestCompatible": "2.0.0",
   "CreationTime": "2026-07-31T23:23:29.229+05:30",
-  "LastSaveTime": "2026-08-01T21:39:49.030+05:30",
+  "LastSaveTime": "2026-08-01T22:44:08.151+05:30",
   "Prefs_MainPinNamesDisplayMode": 1,
   "Prefs_ChipPinNamesDisplayMode": 1,
   "Prefs_GridDisplayMode": 1,
@@ -20,7 +20,10 @@
     "MUX2",
     "MUX4",
     "MUX8",
-    "SR LATCH"
+    "SR LATCH",
+    "DEMUX2",
+    "DEMUX4",
+    "DEMUX8"
   ],
   "StarredList":[
     {
@@ -62,6 +65,18 @@
     {
       "Name":"SR LATCH",
       "IsCollection":false
+    },
+    {
+      "Name":"DEMUX2",
+      "IsCollection":false
+    },
+    {
+      "Name":"DEMUX4",
+      "IsCollection":false
+    },
+    {
+      "Name":"DEMUX8",
+      "IsCollection":false
     }
   ],
   "ChipCollections":[
@@ -96,7 +111,7 @@
       "Name":"MEMORY"
     },
     {
-      "Chips":["BUZZER","MUX2","MUX4","MUX8","SR LATCH"],
+      "Chips":["BUZZER","MUX2","MUX4","MUX8","SR LATCH","DEMUX2","DEMUX4","DEMUX8"],
       "IsToggledOpen":true,
       "Name":"OTHER"
     },
