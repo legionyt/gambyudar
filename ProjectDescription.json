@@ -13,19 +13,19 @@
     "Prefs_SimTargetStepsPerSecond": 1000,
     "Prefs_SimStepsPerClockTick": 250,
     "AllCustomChipNames": [
-        "NOT",
-        "OR",
-        "MUX4",
-        "MUX2",
-        "DEMUX2",
-        "MUX8",
-        "test subject 2",
         "XOR",
-        "TEST DUSHYANT",
-        "SR LATCH",
+        "MUX2",
         "AND",
-        "DEMUX4",
-        "DEMUX8"
+        "NOT",
+        "TEST DUSHYANT",
+        "OR",
+        "MUX8",
+        "SR LATCH",
+        "DEMUX8",
+        "MUX4",
+        "test subject 2",
+        "DEMUX2",
+        "DEMUX4"
     ],
     "StarredList": [
         {
